@@ -79,8 +79,4 @@ Always seeking innovation in production pipelines — from lookdev to compositin
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DaryCore&style=flat-square&color=4ec6f2" alt="Profile views"/>
-</p>
-
 </div>
