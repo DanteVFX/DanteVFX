@@ -62,18 +62,20 @@ Always seeking innovation in production pipelines — from lookdev to compositin
 - UI/UX for Artists (PySide2 / Qt)  
 - Workflow Automation & Asset Management  
 - Interoperability between DCCs  
-- VFX Production Efficiency  
+- VFX Production Efficiency
+
+---  
 
 ### 📬 Contact
 
 <div align="center">
 
-💼 **DaryCore** — VFX Artist & Pipeline TD  
+**Dante Rueda** — VFX Artist & Pipeline TD  
 
-📧 **Email:** [darycore.vfx@gmail.com](mailto:darycore.vfx@gmail.com)  
-🌐 **Portfolio:** [https://github.com/DaryCore](https://github.com/DaryCore)  
-🎥 **Demo Reel:** [Watch on Vimeo](https://vimeo.com/965165090)  
-💬 **LinkedIn:** [linkedin.com/in/darycore](https://linkedin.com/in/darycore)
+📧 **Email:** [danter.3dartist@gmail.com](mailto:danter.3dartist@gmail.com)  
+🌐 **FX Demoreel:** [FX TD Reel](https://vimeo.com/931169842/c8b8c44090?fl=tl&fe=ec)  
+🎥 **Technival Demoreel:** [TD Reel](https://vimeo.com/965165090)  
+💬 **LinkedIn:** [linkedin.com/in/DanteR](https://www.linkedin.com/in/dante-rueda-yarleque-90b010b4)
 
 ---
 
