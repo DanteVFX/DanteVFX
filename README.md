@@ -33,12 +33,24 @@ Always seeking innovation in production pipelines — from lookdev to compositin
 
 ### 🧩 DCCs & Tools
 <div align="center">
-  <a href="">![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=flat&logo=houdini&logoColor=white)</a>
-  <a href="">![Nuke](https://img.shields.io/badge/Nuke-000000?style=flat&logo=nuke&logoColor=yellow)</a>
-  <a href="">![Maya](https://img.shields.io/badge/Autodesk%20Maya-00A3E0?style=flat&logo=autodesk&logoColor=white)</a>
-  <a href="">![Katana](https://img.shields.io/badge/Katana-FFD700?style=flat&logo=thefoundry&logoColor=black)</a>
-  <a href="">![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)</a>
-  <a href="">![Substance](https://img.shields.io/badge/Substance%203D-2A2A2A?style=flat&logo=adobe&logoColor=green)</a>
+  
+  ![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=flat&logo=houdini&logoColor=white)
+  ![Nuke](https://img.shields.io/badge/Nuke-000000?style=flat&logo=nuke&logoColor=yellow)
+  ![Maya](https://img.shields.io/badge/Autodesk%20Maya-00A3E0?style=flat&logo=autodesk&logoColor=white)
+  ![Katana](https://img.shields.io/badge/Katana-FFD700?style=flat&logo=thefoundry&logoColor=black)
+  ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
+  ![Substance](https://img.shields.io/badge/Substance%203D-2A2A2A?style=flat&logo=adobe&logoColor=green)
+
+</div>
+
+---
+
+### 🎥 Demo Reel
+
+<div align="center">
+  <a href="https://vimeo.com/965165090?fl=ip&fe=ec" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20My%20Reel%20on%20Vimeo-1ab7ea?style=for-the-badge&logo=vimeo&logoColor=white" alt="Vimeo Reel"/>
+  </a>
 </div>
 
 ---
