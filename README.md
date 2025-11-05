@@ -28,8 +28,12 @@ Always seeking innovation in production pipelines — from lookdev to compositin
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="35" height="35"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="35" height="35"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="PySide2 / Qt" alt="Qt" width="35" height="35"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rockylinux/rockylinux-original.svg" title="Rocky Linux" alt="Rocky Linux" width="35" height="35"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="35" height="35"/>&nbsp;
   </p>
 </div>
+
 
 ---
 
