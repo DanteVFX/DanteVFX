@@ -1,16 +1,18 @@
-<h1 align="center">Hi! I'm DaryCore 🎬</h1>
+<h1 align="center">Hi! I'm Dante Rueda 🎬</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=4ec6f2&center=true&vCenter=true&multiline=true&width=700&height=60&lines=VFX+Artist+%26+Pipeline+TD+💻;Tool+Developer+for+Houdini,+Maya,+Nuke+%26"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=4ec6f2&center=true&vCenter=true&multiline=true&width=700&height=60&lines=FX+Artist+%26+Pipeline+TD+💻"/>
 </p>
 
+
+
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMng5b2MzYTd3eWlidHp4ZnpibXZraDAwNGV2NmlmY2M0aHR5c2htYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQ4YWx5NDV1MjI0NnY2bGRhaHIydzhyM2p0ZHV0ejcyZ3lxaWowcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300"/>
 </p>
 
 ## 🧠 About Me
 <div align="center">
-Hey there! I'm a VFX Artist and Pipeline TD passionate about bridging art and technology.<br>
+Hey there! I'm a FX Artist and Pipeline TD passionate about bridging art and technology.<br>
 I specialize in developing custom tools and automations for Houdini, Maya, Nuke, and Katana, optimizing workflows and empowering artists to focus on creativity.<br><br>
 Always seeking innovation in production pipelines — from lookdev to compositing — and creating scalable systems that make complex processes simple and efficient.
 </div>
