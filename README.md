@@ -1,11 +1,11 @@
 <h1 align="center">Hi! I'm DaryCore 🎬</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=4ec6f2&center=true&vCenter=true&multiline=true&width=700&height=60&lines=VFX+Artist+%26+Pipeline+TD+💻;Tool+Developer+for+Houdini,+Maya,+Nuke+%26+Katana"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=4ec6f2&center=true&vCenter=true&multiline=true&width=700&height=60&lines=VFX+Artist+%26+Pipeline+TD+💻;Tool+Developer+for+Houdini,+Maya,+Nuke+%26"/>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65095938/122179220-e9c88100-ce4c-11eb-8839-d708ba488db9.gif" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMng5b2MzYTd3eWlidHp4ZnpibXZraDAwNGV2NmlmY2M0aHR5c2htYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600"/>
 </p>
 
 ## 🧠 About Me
@@ -22,7 +22,6 @@ Always seeking innovation in production pipelines — from lookdev to compositin
 <div align="center">
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="35" height="35"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="35" height="35"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="35" height="35"/>&nbsp;
