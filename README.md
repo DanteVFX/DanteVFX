@@ -64,12 +64,21 @@ Always seeking innovation in production pipelines — from lookdev to compositin
 - Interoperability between DCCs  
 - VFX Production Efficiency  
 
----
+### 📬 Contact
 
 <div align="center">
-   
-   ![DaryCore's Stats](https://github-readme-stats.vercel.app/api?username=DaryCore&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-   
-   ![DaryCore's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaryCore&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+
+💼 **DaryCore** — VFX Artist & Pipeline TD  
+
+📧 **Email:** [darycore.vfx@gmail.com](mailto:darycore.vfx@gmail.com)  
+🌐 **Portfolio:** [https://github.com/DaryCore](https://github.com/DaryCore)  
+🎥 **Demo Reel:** [Watch on Vimeo](https://vimeo.com/965165090)  
+💬 **LinkedIn:** [linkedin.com/in/darycore](https://linkedin.com/in/darycore)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaryCore&style=flat-square&color=4ec6f2" alt="Profile views"/>
+</p>
 
 </div>
