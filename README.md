@@ -41,7 +41,10 @@ Always seeking innovation in production pipelines — from lookdev to compositin
   ![Maya](https://img.shields.io/badge/Autodesk%20Maya-00A3E0?style=flat&logo=autodesk&logoColor=white)
   ![Katana](https://img.shields.io/badge/Katana-FFD700?style=flat&logo=thefoundry&logoColor=black)
   ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
-  ![Substance](https://img.shields.io/badge/Substance%203D-2A2A2A?style=flat&logo=adobe&logoColor=green)
+  ![USD](https://img.shields.io/badge/USD%20(NVIDIA)-76B900?style=flat&logo=nvidia&logoColor=white)
+  ![Karma](https://img.shields.io/badge/Karma%20(Houdini)-FF6B00?style=flat&logo=houdini&logoColor=white)
+  ![Arnold](https://img.shields.io/badge/Arnold%20(Maya)-1C1C1C?style=flat&logo=autodesk&logoColor=00A3E0)
+
 
 </div>
 
