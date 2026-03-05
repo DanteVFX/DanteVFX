@@ -31,6 +31,7 @@ Always seeking innovation in production pipelines — from lookdev to compositin
     <img src="https://github.com/devicons/devicon/blob/master/icons/rockylinux/rockylinux-original.svg" title="Rocky Linux" alt="Rocky Linux" width="35" height="35"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="35" height="35"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="35" height="35"/>&nbsp;
   </p>
 </div>
 
