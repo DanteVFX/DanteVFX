@@ -40,14 +40,14 @@ Always seeking innovation in production pipelines — from lookdev to compositin
 ### 🧩 DCCs & Tools
 <div align="center">
   
-  ![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=flat&logo=houdini&logoColor=white)
-  ![Nuke](https://img.shields.io/badge/Nuke-000000?style=flat&logo=nuke&logoColor=yellow)
-  ![Maya](https://img.shields.io/badge/Autodesk%20Maya-00A3E0?style=flat&logo=autodesk&logoColor=white)
-  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
-  ![USD](https://img.shields.io/badge/USD%20(NVIDIA)-76B900?style=flat&logo=nvidia&logoColor=white)
-  ![Karma](https://img.shields.io/badge/Karma%20(Houdini)-FF6B00?style=flat&logo=houdini&logoColor=white)
-  ![Arnold](https://img.shields.io/badge/Arnold%20(Maya)-1C1C1C?style=flat&logo=autodesk&logoColor=00A3E0)
-  ![Katana](https://img.shields.io/badge/Foundry-Katana-000000?style=flat&logo=katana&logoColor=white)
+![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=flat&logo=houdini&logoColor=white)
+![Nuke](https://img.shields.io/badge/Nuke-000000?style=flat&logo=nuke&logoColor=yellow)
+![Maya](https://img.shields.io/badge/Maya-00A3E0?style=flat&logo=autodesk&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![USD](https://img.shields.io/badge/USD-76B900?style=flat&logo=nvidia&logoColor=white)
+![Karma](https://img.shields.io/badge/Karma-FF6B00?style=flat&logo=houdini&logoColor=white)
+![Arnold](https://img.shields.io/badge/Arnold-1C1C1C?style=flat&logo=autodesk&logoColor=00A3E0)
+![Katana](https://img.shields.io/badge/Katana-000000?style=flat&logo=katana&logoColor=white)
   
 
 
